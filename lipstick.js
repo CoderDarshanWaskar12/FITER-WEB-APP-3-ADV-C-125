@@ -37,6 +37,3 @@ function draw(){
     image(video,0,0,300,300);
     image(lipstick,lipstick_x,lipstick_y+10,70,45);
 }
-function next_page() {
-    window.location = "clown.html";
-}
